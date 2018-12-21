@@ -42,7 +42,7 @@
 - Copy (text aling right)<br>
 - Logotipo ICONOS - datos (centrado)<br>
 
-![](img/web.JPG);
+![](img/web.jpg);
 
 
 
