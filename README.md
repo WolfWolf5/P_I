@@ -3,7 +3,7 @@
 
 ## Wireframe del proyecto
 
-![](img/wireframe.jpg);
+![](img/wireframe.JPG);
 
 ## Contenido<br>
  <b>One page</b>
