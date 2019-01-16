@@ -49,6 +49,9 @@ III.- Redes de la institución <br>
 ### Estilo de la página Web
 ![](img/Estilo_Cst-01.jpg);
 
+## Estilo Web
+
+![](img/web_estiloFF.jpg);
 
 
 logotipo<br>
