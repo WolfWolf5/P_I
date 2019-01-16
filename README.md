@@ -25,23 +25,23 @@ I.- Concepto - objetivo <br>
  II.- Descripción del objetivo acerca del proyecto.
 - (I y II en 2 columnas)
  <br>
-### Section II - Leyenda<br>
+ ### Section II - Leyenda<br>
  
-I.- Imágen. Hombre del muñeco.  <br>
+I.- Imagen. Hombre del muñeco.  <br>
  II.- Historia de ficción - Texto: Leyenda y el relato. <br>
  - (I y II en 2 columnas)
  
 ### Section III - Artefactos
 I.- 3 Fichas de los artefactos en 3D; Mueble, Banco y Cama (Imagen del modelado y sus generalidades).<br> 
 - (I en 3 columnas: Con información e imagen) <br>
-<br> II.- Link para ver las fotografías originales; galerìa (Fotos de la Fachada, Mueble, Banco, Cama Hombre del muñeco).<br>
-- (Galerìa de 3 columnas y dos filas)
-### Section IV - Amb ientación 3D
- I.- Vídeo del Stand - recorrdio  <br>
+<br> II.- Link para ver las fotografías originales; galería (Fotos de la Fachada, Mueble, Banco, Cama y Hombre del muñeco).<br>
+- (Galería de 3 columnas y dos filas)
+### Section IV - Ambientación 3D
+ I.- Vídeo del Stand - recorrido  <br>
  
 ### Footer 
 I.- Logotipo ICONOS - Datos del instituto <br>
-II.- Copy - Nombre del pryecto - Año <br>
+II.- Copy - Nombre del proyecto - Año <br>
 - (I y II en 1 columna)
 III.- Redes de la institución <br> 
 - (III en 1 columnas)
